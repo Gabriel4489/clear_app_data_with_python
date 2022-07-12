@@ -3,6 +3,7 @@ This is automated program,
 which help you to clear apps data, 
 but it's for ADB users only.
 <br />
+<br />
 <b>Requirements</b>
 <p>
 You should have ADB installed in your 
