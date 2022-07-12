@@ -11,7 +11,8 @@ mashine
 </p>
 <p>for window users, go and download ADB online.</p>
 <p>For Unix users type this command in terminal<br />
-sudo apt install adb
+<br />
+<b>sudo apt install adb</b>
 </p> 
 
 <p>Also you should enable usb debugging
